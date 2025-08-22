@@ -5,7 +5,7 @@ This repo demonstrates the knowledge base to understand basics of Artificial Int
 It has course material designed as per the S.E. Artificial Intelligence and Data Science, SPPU, Pune.
 
 
-## Course Objectives:
+000## Course Objectives:
 
 - To introduce fundamental concepts and techniques in Artificial Intelligence.
 
